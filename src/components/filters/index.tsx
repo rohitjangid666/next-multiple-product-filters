@@ -26,7 +26,7 @@ const Filters = () => {
 
   return (
     <>
-      <div className='z-10 bg-white rounded-lg shadow w-60 dark:bg-gray-700'>
+      <div className='z-10 h-fit bg-white rounded-lg shadow w-60 dark:bg-gray-700'>
         <div className='p-3'>
           <label htmlFor='input-group-search' className='sr-only'>
             Search
@@ -58,7 +58,7 @@ const Filters = () => {
             />
           </div>
         </div>
-        <ul className='h-full px-3 pb-3 overflow-y-auto text-sm text-gray-700 dark:text-gray-200'>
+        <ul className='px-3 pb-3 overflow-y-auto text-sm text-gray-700 dark:text-gray-200'>
           {categories.map((category, i) => {
             const checked = filters.some(condition => {
               const [field, operator, value] = condition;
