@@ -1,0 +1,450 @@
+[
+  {
+    "productName": "Eco-Friendly Yoga Mat",
+    "category": "Sports",
+    "price": 25.99,
+    "description": "A non-slip yoga mat made from natural materials, perfect for both beginners and experienced yogis.",
+    "material": "Natural Rubber"
+  },
+  {
+    "productName": "Bluetooth Wireless Headphones",
+    "category": "Electronics",
+    "price": 59.99,
+    "description": "High-quality wireless headphones with noise cancellation and long battery life.",
+    "material": "Plastic, Metal"
+  },
+  {
+    "productName": "Organic Cotton T-Shirt",
+    "category": "Clothing",
+    "price": 19.99,
+    "description": "Soft and breathable t-shirt made from 100% organic cotton.",
+    "material": "Cotton"
+  },
+  {
+    "productName": "Stainless Steel Water Bottle",
+    "category": "Accessories",
+    "price": 14.99,
+    "description": "Durable, insulated water bottle that keeps drinks cold for 24 hours.",
+    "material": "Stainless Steel"
+  },
+  {
+    "productName": "Ceramic Coffee Mug",
+    "category": "Kitchen",
+    "price": 12.99,
+    "description": "Handcrafted ceramic mug, perfect for enjoying your morning coffee.",
+    "material": "Ceramic"
+  },
+  {
+    "productName": "Smartphone Tripod",
+    "category": "Photography",
+    "price": 29.99,
+    "description": "Adjustable tripod for smartphones with a universal phone holder.",
+    "material": "Aluminum, Plastic"
+  },
+  {
+    "productName": "Eco-Friendly Notebook",
+    "category": "Office Supplies",
+    "price": 9.99,
+    "description": "Made from recycled paper, this notebook is perfect for jotting down notes and ideas.",
+    "material": "Recycled Paper"
+  },
+  {
+    "productName": "Handmade Wooden Chess Set",
+    "category": "Games",
+    "price": 79.99,
+    "description": "A beautifully crafted chess set made from premium wood.",
+    "material": "Wood"
+  },
+  {
+    "productName": "Wireless Charging Pad",
+    "category": "Electronics",
+    "price": 24.99,
+    "description": "A sleek wireless charging pad compatible with most smartphones.",
+    "material": "Plastic, Glass"
+  },
+  {
+    "productName": "Insulated Lunch Bag",
+    "category": "Accessories",
+    "price": 19.99,
+    "description": "Keeps your food fresh and cold for hours, perfect for work or school.",
+    "material": "Polyester"
+  },
+  {
+    "productName": "Portable Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 39.99,
+    "description": "Compact and powerful speaker with rich sound quality.",
+    "material": "Plastic, Metal"
+  },
+  {
+    "productName": "Organic Herbal Tea",
+    "category": "Food & Beverage",
+    "price": 15.99,
+    "description": "A blend of natural herbs for a soothing and calming experience.",
+    "material": "Tea Leaves"
+  },
+  {
+    "productName": "Adjustable Desk Lamp",
+    "category": "Furniture",
+    "price": 49.99,
+    "description": "A modern desk lamp with adjustable brightness and angle.",
+    "material": "Metal, Plastic"
+  },
+  {
+    "productName": "Sports Water Bottle",
+    "category": "Sports",
+    "price": 19.99,
+    "description": "Durable water bottle designed for athletes and fitness enthusiasts.",
+    "material": "BPA-free Plastic"
+  },
+  {
+    "productName": "Travel Backpack",
+    "category": "Bags",
+    "price": 69.99,
+    "description": "Spacious and stylish backpack, perfect for travel and outdoor activities.",
+    "material": "Nylon"
+  },
+  {
+    "productName": "Wireless Earbuds",
+    "category": "Electronics",
+    "price": 49.99,
+    "description": "Compact earbuds with excellent sound quality and touch controls.",
+    "material": "Plastic"
+  },
+  {
+    "productName": "Outdoor Camping Tent",
+    "category": "Outdoor Gear",
+    "price": 199.99,
+    "description": "Spacious and durable tent suitable for all weather conditions.",
+    "material": "Polyester, Fiberglass"
+  },
+  {
+    "productName": "Canvas Art Print",
+    "category": "Home Decor",
+    "price": 39.99,
+    "description": "Beautifully printed canvas art to enhance any room.",
+    "material": "Canvas"
+  },
+  {
+    "productName": "Electric Kettle",
+    "category": "Kitchen",
+    "price": 34.99,
+    "description": "Quickly boils water for tea, coffee, or instant meals.",
+    "material": "Stainless Steel, Plastic"
+  },
+  {
+    "productName": "Wooden Cutting Board",
+    "category": "Kitchen",
+    "price": 24.99,
+    "description": "Durable and elegant cutting board for all your food preparation needs.",
+    "material": "Bamboo"
+  },
+  {
+    "productName": "Aromatherapy Diffuser",
+    "category": "Health & Wellness",
+    "price": 34.99,
+    "description": "Ultrasonic diffuser for essential oils, creating a calming atmosphere.",
+    "material": "Plastic"
+  },
+  {
+    "productName": "Pet Grooming Brush",
+    "category": "Pet Supplies",
+    "price": 12.99,
+    "description": "Gentle grooming brush suitable for all pet fur types.",
+    "material": "Plastic, Metal"
+  },
+  {
+    "productName": "Vegan Protein Powder",
+    "category": "Health & Wellness",
+    "price": 29.99,
+    "description": "Plant-based protein powder ideal for smoothies and shakes.",
+    "material": "Pea Protein"
+  },
+  {
+    "productName": "Baby Stroller",
+    "category": "Baby Products",
+    "price": 199.99,
+    "description": "Lightweight and easy-to-fold stroller with safety features.",
+    "material": "Aluminum, Fabric"
+  },
+  {
+    "productName": "Essential Oil Set",
+    "category": "Health & Wellness",
+    "price": 49.99,
+    "description": "A collection of pure essential oils for relaxation and rejuvenation.",
+    "material": "Essential Oils"
+  },
+  {
+    "productName": "Multifunctional Knife Set",
+    "category": "Kitchen",
+    "price": 39.99,
+    "description": "Versatile knife set for all your cooking needs, includes a wooden block.",
+    "material": "Stainless Steel, Wood"
+  },
+  {
+    "productName": "Colorful Beach Towel",
+    "category": "Outdoor Gear",
+    "price": 19.99,
+    "description": "Soft and absorbent towel, perfect for beach outings.",
+    "material": "Cotton"
+  },
+  {
+    "productName": "LED Desk Clock",
+    "category": "Office Supplies",
+    "price": 29.99,
+    "description": "Modern LED clock with multiple time zone settings.",
+    "material": "Plastic"
+  },
+  {
+    "productName": "High-Performance Running Shoes",
+    "category": "Footwear",
+    "price": 89.99,
+    "description": "Lightweight and breathable shoes designed for runners.",
+    "material": "Mesh, Rubber"
+  },
+  {
+    "productName": "Wall-Mounted Bookshelf",
+    "category": "Furniture",
+    "price": 79.99,
+    "description": "Stylish and space-saving bookshelf for books and decor.",
+    "material": "Wood"
+  },
+  {
+    "productName": "Fitness Resistance Bands",
+    "category": "Sports",
+    "price": 22.99,
+    "description": "Set of resistance bands for strength training and flexibility.",
+    "material": "Latex"
+  },
+  {
+    "productName": "Pet Bed",
+    "category": "Pet Supplies",
+    "price": 49.99,
+    "description": "Comfortable and cozy bed for your furry friend.",
+    "material": "Fabric, Foam"
+  },
+  {
+    "productName": "Smart Thermostat",
+    "category": "Home Automation",
+    "price": 129.99,
+    "description": "Energy-efficient thermostat that learns your schedule.",
+    "material": "Plastic, Electronics"
+  },
+  {
+    "productName": "Stylish Sunglasses",
+    "category": "Accessories",
+    "price": 29.99,
+    "description": "UV protection sunglasses with a modern design.",
+    "material": "Plastic, Glass"
+  },
+  {
+    "productName": "Luxury Hand Cream",
+    "category": "Beauty",
+    "price": 34.99,
+    "description": "Moisturizing hand cream with natural ingredients.",
+    "material": "Cream, Essential Oils"
+  },
+  {
+    "productName": "Outdoor Adventure Hammock",
+    "category": "Outdoor Gear",
+    "price": 39.99,
+    "description": "Lightweight and portable hammock, perfect for camping or relaxing in the park.",
+    "material": "Nylon"
+  },
+  {
+    "productName": "Kids' Art Supplies Set",
+    "category": "Toys",
+    "price": 29.99,
+    "description": "A comprehensive set of art supplies for kids to explore their creativity.",
+    "material": "Assorted Materials"
+  },
+  {
+    "productName": "Foldable Camping Chair",
+    "category": "Outdoor Gear",
+    "price": 49.99,
+    "description": "Convenient and comfortable chair for outdoor activities.",
+    "material": "Fabric, Aluminum"
+  },
+  {
+    "productName": "Silicone Baking Mat",
+    "category": "Kitchen",
+    "price": 12.99,
+    "description": "Reusable baking mat that prevents sticking and ensures even baking.",
+    "material": "Silicone"
+  },
+  {
+    "productName": "Classic Board Game Set",
+    "category": "Games",
+    "price": 34.99,
+    "description": "Includes multiple classic board games for family fun.",
+    "material": "Cardboard, Plastic"
+  },
+  {
+    "productName": "Smart LED Light Bulbs",
+    "category": "Home Automation",
+    "price": 49.99,
+    "description": "Wi-Fi enabled LED bulbs that can be controlled via smartphone.",
+    "material": "Glass, Electronics"
+  },
+  {
+    "productName": "Portable Charger",
+    "category": "Electronics",
+    "price": 24.99,
+    "description": "Compact power bank for charging devices on the go.",
+    "material": "Plastic, Lithium Battery"
+  },
+  {
+    "productName": "Luxury Yoga Block",
+    "category": "Sports",
+    "price": 18.99,
+    "description": "Supportive and sturdy yoga block made from eco-friendly materials.",
+    "material": "Cork"
+  },
+  {
+    "productName": "Travel Size Toiletries Set",
+    "category": "Beauty",
+    "price": 15.99,
+    "description": "Convenient travel-sized toiletries for all your skincare needs.",
+    "material": "Plastic, Various Ingredients"
+  },
+  {
+    "productName": "Personalized Photo Album",
+    "category": "Stationery",
+    "price": 39.99,
+    "description": "Beautifully designed album for storing and showcasing your memories.",
+    "material": "Paper, Fabric"
+  },
+  {
+    "productName": "Mini Drone with Camera",
+    "category": "Electronics",
+    "price": 99.99,
+    "description": "Fun mini drone equipped with a high-quality camera for aerial photography.",
+    "material": "Plastic, Electronics"
+  },
+  {
+    "productName": "Handcrafted Leather Wallet",
+    "category": "Accessories",
+    "price": 59.99,
+    "description": "Stylish and durable wallet made from genuine leather.",
+    "material": "Leather"
+  },
+  {
+    "productName": "Electric Toothbrush",
+    "category": "Health & Wellness",
+    "price": 39.99,
+    "description": "Advanced electric toothbrush for effective cleaning.",
+    "material": "Plastic, Electronics"
+  },
+  {
+    "productName": "Scented Candle Set",
+    "category": "Home Decor",
+    "price": 24.99,
+    "description": "A collection of scented candles for a relaxing ambiance.",
+    "material": "Wax, Essential Oils"
+  },
+  {
+    "productName": "Digital Kitchen Scale",
+    "category": "Kitchen",
+    "price": 29.99,
+    "description": "Precision scale for accurate measurements in cooking and baking.",
+    "material": "Plastic, Electronics"
+  },
+  {
+    "productName": "Outdoor Picnic Blanket",
+    "category": "Outdoor Gear",
+    "price": 29.99,
+    "description": "Water-resistant blanket perfect for picnics and beach days.",
+    "material": "Polyester"
+  },
+  {
+    "productName": "Stylish Backpack Purse",
+    "category": "Bags",
+    "price": 54.99,
+    "description": "Fashionable backpack that doubles as a purse.",
+    "material": "Vegan Leather"
+  },
+  {
+    "productName": "Non-Stick Cookware Set",
+    "category": "Kitchen",
+    "price": 89.99,
+    "description": "Durable non-stick cookware set for easy cooking and cleaning.",
+    "material": "Aluminum, Non-Stick Coating"
+  },
+  {
+    "productName": "Smart Fitness Tracker",
+    "category": "Health & Wellness",
+    "price": 49.99,
+    "description": "Monitor your fitness levels and track your progress with this smart device.",
+    "material": "Plastic, Electronics"
+  },
+  {
+    "productName": "Craft Beer Brewing Kit",
+    "category": "Food & Beverage",
+    "price": 69.99,
+    "description": "All-in-one kit for brewing your own craft beer at home.",
+    "material": "Plastic, Metal"
+  },
+  {
+    "productName": "Multi-Use Pressure Cooker",
+    "category": "Kitchen",
+    "price": 99.99,
+    "description": "Versatile pressure cooker for fast and easy meal preparation.",
+    "material": "Stainless Steel, Plastic"
+  },
+  {
+    "productName": "Handmade Soap Gift Set",
+    "category": "Beauty",
+    "price": 34.99,
+    "description": "A selection of luxurious handmade soaps with natural ingredients.",
+    "material": "Soap Base, Essential Oils"
+  },
+  {
+    "productName": "Faux Fur Throw Blanket",
+    "category": "Home Decor",
+    "price": 49.99,
+    "description": "Soft and cozy throw blanket, perfect for adding warmth to any room.",
+    "material": "Faux Fur"
+  },
+  {
+    "productName": "Wireless Security Camera",
+    "category": "Home Security",
+    "price": 79.99,
+    "description": "Keep your home safe with this easy-to-install wireless security camera.",
+    "material": "Plastic, Electronics"
+  },
+  {
+    "productName": "Kids' Educational Puzzle",
+    "category": "Toys",
+    "price": 24.99,
+    "description": "Fun and educational puzzle designed to enhance children's learning.",
+    "material": "Wood, Cardboard"
+  },
+  {
+    "productName": "Yoga Wheel",
+    "category": "Sports",
+    "price": 34.99,
+    "description": "Helps deepen stretches and improve flexibility in yoga practice.",
+    "material": "Plastic, Foam"
+  },
+  {
+    "productName": "Wireless Game Controller",
+    "category": "Gaming",
+    "price": 49.99,
+    "description": "Ergonomic wireless controller compatible with multiple gaming consoles.",
+    "material": "Plastic, Electronics"
+  },
+  {
+    "productName": "Folding Picnic Table",
+    "category": "Outdoor Gear",
+    "price": 89.99,
+    "description": "Portable picnic table that folds for easy transport and storage.",
+    "material": "Aluminum, Plastic"
+  },
+  {
+    "productName": "Gourmet Spice Rack",
+    "category": "Kitchen",
+    "price": 49.99,
+    "description": "A stylish rack filled with gourmet spices for your culinary adventures.",
+    "material": "Wood, Glass"
+  }
+]
